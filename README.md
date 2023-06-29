@@ -7,6 +7,13 @@
 * Performed feature extraction and classification using these models.
 * Used matching algorithms (i.e. Euclidean distance, cosine angle, L1-norm, etc.) to produce scores.
 
+NOTEBOOK FILES - FINE-TUNING AND NO-FINE TUNING DONE SEPARATELY FOR EACH MODEL
+Siamese_AlexNet_finetuning.ipynb
+Siamese_AlexNet_no_finetuning.ipynb
+Siamese_VGG16_finetuning.ipynb
+Siamese_VGG16_no_finetuning.ipynb
+
+
 ## Results (Model Comparison and Performance)
 
 ### ROC curves of the Fine-Tuned Models:
